@@ -2,6 +2,7 @@
 
 **Autores:** [Breilin De La Cruz Duarte, Pascual Pimentel Vicente, Fidel Ernesto Reyes Urbaez]  
 **Materia:** Lenguaje de Programación 3 
+
 **Fecha de entrega:** Diciembre 2025  
 
 ## Descripción del Proyecto
