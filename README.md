@@ -1,7 +1,7 @@
 # CaribeSupply S.A.S. - Proyecto Final (Sitio Web E-commerce Dominicano)
 
 **Autores:** [Breilin De La Cruz Duarte, Pascual Pimentel Vicente, Fidel Ernesto Reyes Urbaez]  
-**Materia:** Desarrollo de Aplicaciones Web / Frontend Avanzado con React  
+**Materia:** Lenguaje de Programación 3 
 **Fecha de entrega:** Diciembre 2025  
 
 ## Descripción del Proyecto
