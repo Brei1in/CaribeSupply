@@ -1,0 +1,14 @@
+Fecha: 05 de diciembre de 2025
+Autores: [Breilin De La Cruz Duarte, Pascual Pimentel Vicente, Fidel Ernesto Reyes Urbaez]
+ETAPAS COMPLETADAS:
+
+Estructura del proyecto con Vite + React + Tailwind
+Autenticación completa (registro + login + logout)
+Catálogo con filtros y tarjetas de producto
+Carrito persistente con localStorage
+Cálculo de impuestos (18%) y total
+Checkout con validación y accesibilidad
+Panel de APIs: Clima, Tasas de cambio, Seguimiento en vivo, FAQ
+Accesibilidad total (aria-labels, role=alert, aria-live)
+Diseño responsivo y profesional
+Despliegue exitoso en producción
