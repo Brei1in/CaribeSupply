@@ -39,7 +39,6 @@ CaribeSupply S.A.S. es una plataforma web moderna, accesible y totalmente funcio
 ### Enlace en Producción
 
 https://caribesupply.netlify.app  
-(o el enlace de tu despliegue)
 
 ### Ejecución local
 
